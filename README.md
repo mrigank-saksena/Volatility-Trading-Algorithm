@@ -5,5 +5,5 @@ A PDF has been included which goes over the theory of the algorithm.
 
 **_This algorithm does not always perform well so please, for your own good, don't trade on it (even though you probably weren't going to)._**
 
-#### **Disclaimer:**
+### **Disclaimer:**
 *I'm not responsible for any bankruptcies this algorithm may cause.*
